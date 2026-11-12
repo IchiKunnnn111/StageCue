@@ -1,4 +1,4 @@
-# 🎭 STAGECUE STUDIO — BÀN ĐIỀU KHIỂN ÂM THANH NHẠC KỊCH & SÂN KHẤU CHUYÊN NGHIỆP
+# 🎭 StageCue — BÀN ĐIỀU KHIỂN ÂM THANH NHẠC KỊCH & SÂN KHẤU CHUYÊN NGHIỆP
 
 Bạn từng gặp cảnh mở hàng chục tab nhạc khi chạy chương trình, nhạc vào bị giật cục, tắt nhạc bị ngắt ngang thiếu tự nhiên, hay phải dùng phần mềm thứ 3 để cắt từng đoạn tiếng động trước giờ diễn?
 
