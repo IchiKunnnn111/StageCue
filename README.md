@@ -1,17 +1,18 @@
+
 # 🎭 StageCue — BÀN ĐIỀU KHIỂN ÂM THANH NHẠC KỊCH & SÂN KHẤU CHUYÊN NGHIỆP
 
 Bạn từng gặp cảnh mở hàng chục tab nhạc khi chạy chương trình, nhạc vào bị giật cục, tắt nhạc bị ngắt ngang thiếu tự nhiên, hay phải dùng phần mềm thứ 3 để cắt từng đoạn tiếng động trước giờ diễn?
 
-**StageCue Studio** được thiết kế chuyên biệt cho **Kỹ thuật viên âm thanh sân khấu, Đội kịch, Đạo diễn sự kiện và CLB Nghệ thuật**, biến chiếc laptop Windows của bạn thành một bàn Soundboard & Mixer sân khấu thực thụ.
+**StageCue ** được thiết kế chuyên biệt cho **Kỹ thuật viên âm thanh sân khấu, Đội kịch, Đạo diễn sự kiện và CLB Nghệ thuật**, biến chiếc laptop Windows của bạn thành một bàn Soundboard & Mixer sân khấu thực thụ.
 
 ---
-
+<img width="1917" height="1006" alt="Screenshot 2026-11-12 230028" src="https://github.com/user-attachments/assets/2d5c56f8-f5f1-4770-a36f-456e1505d9bd" />
 ### 🌟 ĐIỂM NỔI BẬT CỦA STAGECUE STUDIO
 
 🔹 **1. Giao diện Bàn Diễn Trực Quan — Mở Là Chạy Ngay (100% Portable)**
 - Không cần cài đặt phức tạp, không cần kết nối Internet. Chỉ cần mở `StageCue.exe` là tự động bung toàn màn hình (Maximized Window) sẵn sàngเข้า vị trí trực chiến.
 - Tích hợp **6 Tông Màu Sân Khấu (`🎨 Theme - F2`)**: Từ *Xanh Navy StageCue*, *Đỏ Nhung Sân Khấu*, *Xanh Lục Bảo*, *Tím Hoàng Gia* đến *Đen Tuyền Cánh Gà (OLED)* chống chói mắt tuyệt đối khi ngồi trong hậu trường tối.
-
+<img width="1917" height="1006" alt="Screenshot 2026-11-12 230028" src="https://github.com/user-attachments/assets/3a9e4c7c-53bf-40b4-ab05-8516c6107b28" />
 🔹 **2. Hệ Thống 6 Ô Clue & Phím Tắt (Hotkey) Phản Hồi Tức Thì**
 - Gán phím tắt tùy ý (mặc định `1` – `6`) cho từng ô Clue để bấm nhạc không cần nhìn chuột.
 - **Bấm 1 lần:** Tự động vào nhạc êm ái (Fade In) hoặc hạ dần âm lượng rồi dừng (Fade Out).
