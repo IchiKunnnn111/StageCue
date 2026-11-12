@@ -42,4 +42,8 @@ Bạn từng gặp cảnh mở hàng chục tab nhạc khi chạy chương trìn
 ### 💻 YÊU CẦU HỆ THỐNG
 - **Hệ điều hành:** Windows 10 / Windows 11 (64-bit & 32-bit).
 - **Định dạng âm thanh hỗ trợ:** `.mp3`, `.wav`, `.m4a`, `.wma`, `.aac`, `.flac`, `.ogg`.
-- **Dung lượng:** Siêu nhẹ (~500 KB), khởi động tức thì, không ngốn RAM/CPU.
+- **Dung lượng:** Siêu nhẹ (~500 KB), khởi động tức thì, không ngốn RAM/CPU.            
+
+Dự án được phát triển bởi Thái Thành                                     
+contact: truongvanthaithanh@gmail.com
+donate Vietcombank: 1038646530
