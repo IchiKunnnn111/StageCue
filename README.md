@@ -12,7 +12,7 @@ Bạn từng gặp cảnh mở hàng chục tab nhạc khi chạy chương trìn
 🔹 **1. Giao diện Bàn Diễn Trực Quan — Mở Là Chạy Ngay (100% Portable)**
 - Không cần cài đặt phức tạp, không cần kết nối Internet. Chỉ cần mở `StageCue.exe` là tự động bung toàn màn hình (Maximized Window) sẵn sàngเข้า vị trí trực chiến.
 - Tích hợp **6 Tông Màu Sân Khấu (`🎨 Theme - F2`)**: Từ *Xanh Navy StageCue*, *Đỏ Nhung Sân Khấu*, *Xanh Lục Bảo*, *Tím Hoàng Gia* đến *Đen Tuyền Cánh Gà (OLED)* chống chói mắt tuyệt đối khi ngồi trong hậu trường tối.
-<img width="1917" height="1006" alt="Screenshot 2026-11-12 230028" src="https://github.com/user-attachments/assets/3a9e4c7c-53bf-40b4-ab05-8516c6107b28" />
+<img width="866" height="524" alt="Screenshot 2026-11-12 230014" src="https://github.com/user-attachments/assets/43d0f45f-c490-4a1c-9e62-e2dd5120a5f3" />
 🔹 **2. Hệ Thống 6 Ô Clue & Phím Tắt (Hotkey) Phản Hồi Tức Thì**
 - Gán phím tắt tùy ý (mặc định `1` – `6`) cho từng ô Clue để bấm nhạc không cần nhìn chuột.
 - **Bấm 1 lần:** Tự động vào nhạc êm ái (Fade In) hoặc hạ dần âm lượng rồi dừng (Fade Out).
