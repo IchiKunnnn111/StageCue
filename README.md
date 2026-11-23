@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./StageCue_Logo.png" alt="StageCue Studio Logo" width="110" />
+<img width="46" height="46" alt="image" src="https://github.com/user-attachments/assets/0710123a-4d51-4f72-9bf8-c671c911cea2" />
   <h1>StageCue Studio V6</h1>
   <p><strong>Bàn Điều Khiển Âm Thanh Nhạc Kịch, Sân Khấu & Sự Kiện Chuyên Nghiệp</strong></p>
 
