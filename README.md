@@ -1,6 +1,6 @@
 <div align="center">
 <img width="46" height="46" alt="image" src="https://github.com/user-attachments/assets/0710123a-4d51-4f72-9bf8-c671c911cea2" />
-  <h1>StageCue Studio V6</h1>
+  <h1>StageCue Studio V7</h1>
   <p><strong>Bàn Điều Khiển Âm Thanh Nhạc Kịch, Sân Khấu & Sự Kiện Chuyên Nghiệp</strong></p>
 
   <p>
